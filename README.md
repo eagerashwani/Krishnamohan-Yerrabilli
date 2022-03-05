@@ -20,8 +20,10 @@ for communication b/w Discord and HQ Trivia Live Game. By Simply using Web Socke
 ## Let's Connect :+1:
 * [![](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/raw/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/krishnamohanyerrabilli/)  [![](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/raw/master/assets/img/ttt.png)](https://twitter.com/Kmohan_y)
 
-<br>
+
 **Languages and Tools:**  
+
+<br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
