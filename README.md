@@ -12,7 +12,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamohan-yerrabilli&theme=blue-green)
 
 #### MICT/Web Developer/Tutor.
-##### I'm Excited to learn new technologies and do blogging and I'm Currently learning #DSA and #DevOps. Passionate, Dedicated. Love to make apps and test my skills on Reactjs. Apart from the geeky stuff, I love to watch Doucumentries, Read Biographies!
+##### I'm passionate about my work, "Because I do what I love, and I love web development", currently pursuing my bachelor's at mict college, Vijayawada. I'm Excited to learn new technologies and do blogging and I'm Currently learning #DSA and #DevOps. Passionate, Dedicated. Love to make apps and test my skills on Reactjs. Apart from the geeky stuff, I love to watch Doucumentries, Read Biographies!
 ## Experience
 * Student-Tutor (SELF_EMPLOYED). (04-2019 - Present)
 ## Projects.:computer:
