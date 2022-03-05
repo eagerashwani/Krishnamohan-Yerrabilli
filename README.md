@@ -18,7 +18,9 @@ I appreciate anyone can fork it and make your own changes
 for communication b/w Discord and HQ Trivia Live Game. By Simply using Web Socket Handshake through sending HTTP request, If HQ announced any different timings of the game or events, it instantly reflect into discord channel.
 
 ## Let's Connect :+1:
-* [![](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/raw/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/krishnamohanyerrabilli/)  [![](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/raw/master/assets/img/ttt.png)](https://twitter.com/Kmohan_y)
+* [![](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/raw/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/krishnamohanyerrabilli/)  [![](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/raw/master/assets/img/ttt.png)](https://twitter.com/Kmohan_y) <a href="https://github.com/red-star25">
+  <img align="left" alt="Dhruv's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a
 
 
 ## Languages and Tools:
