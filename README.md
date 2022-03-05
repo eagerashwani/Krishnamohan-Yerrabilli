@@ -20,7 +20,9 @@ for communication b/w Discord and HQ Trivia Live Game. By Simply using Web Socke
 ## Let's Connect :+1:
 * [![](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/raw/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/krishnamohanyerrabilli/)  [![](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/raw/master/assets/img/ttt.png)](https://twitter.com/Kmohan_y)
 [![](https://code.iconify.design/2/2.1.2/iconify.min.js)](https://krishnamohanse.hashnode.dev/)
-
+<a href="https://krishnamohanse.hashnode.dev/">
+  <img align="left" alt="Mohan's Blog" width="22px" src="https://code.iconify.design/2/2.1.2/iconify.min.js" /> 
+</a>
 
 <br/>
 
