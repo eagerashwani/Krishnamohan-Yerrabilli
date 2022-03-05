@@ -21,7 +21,7 @@ for communication b/w Discord and HQ Trivia Live Game. By Simply using Web Socke
 * [![](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/raw/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/krishnamohanyerrabilli/)  [![](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/raw/master/assets/img/ttt.png)](https://twitter.com/Kmohan_y)
 
 
-##**Languages and Tools:**  
+## Languages and Tools:
 
 <br>
 
