@@ -1,7 +1,16 @@
 # Hello,Hey,Namaste :smile:
+
+## Krishnamohan-Yerrabilli here.
+<h3 align="center">An aspiring Devops Engineer from India</h3>
+
+- 🔭 I’m currently working on **improving my DSA Skills**
+
+- 👯 I’m looking to collaborate on **open source projects(Cloudbased)**
+
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=krishnamohan-yerrabilli&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamohan-yerrabilli&theme=blue-green)
-## Krishnamohan-Yerrabilli here.
+
 #### MICT/Web Developer/Tutor.
 ##### I'm Excited to learn new technologies and do blogging and I'm Currently learning #DSA and #DevOps. Passionate, Dedicated. Love to make apps and test my skills on Reactjs. Apart from the geeky stuff, I love to watch Doucumentries, Read Biographies!
 ## Experience
