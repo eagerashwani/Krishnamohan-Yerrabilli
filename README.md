@@ -1,7 +1,7 @@
 
 
 <h1 align="center">👋 Krishnamohan-Yerrabilli here.</h1>
-<h3 align="center">An aspiring Devops Engineer from India</h3>
+<h3 align="center">An aspiring DevOps Engineer from India</h3>
 
 - 🔭 I’m currently working on **improving my DSA Skills**
 
