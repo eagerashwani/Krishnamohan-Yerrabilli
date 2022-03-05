@@ -2,12 +2,11 @@
 
 <h1 align="center">👋 Krishnamohan-Yerrabilli here.</h1>
 <h3 align="center">An aspiring DevOps Engineer from India</h3>
-
-- 🔭 I’m currently working on **improving my DSA Skills**
+<h3></h3>
+- 🔭 I’m currently working on **improving my DSA Skills** 
 
 - 👯 I’m looking to collaborate on **open source projects(Cloudbased)**
 
-####
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=krishnamohan-yerrabilli&show_icons=true)
