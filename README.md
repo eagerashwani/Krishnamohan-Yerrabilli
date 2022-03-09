@@ -1,7 +1,9 @@
 
 
 <h1 align="center">👋 Krishnamohan-Yerrabilli here.</h1>
-<h3 align="center">An aspiring DevOps Engineer from India</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front-End+Web+Developer;Open%20Source%20|%20DevOps%20|%20Web+Development%20Enthusiastic;Always%20learning%20new%20things&center=true&width=580&height=45"></a>
+</p>
 
 <h4></h4>
 
