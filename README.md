@@ -21,6 +21,7 @@
 
 ## Latest Blog's 🚀
 
+* <h4><a href = "https://krishnamohanse.hashnode.dev/heres-how-docker-makes-your-life-easier-1">Here's how Docker makes your life easier</a></h4>
 * <h4><a href = "https://krishnamohanse.hashnode.dev/dissimilarity-between-iaas-paas-saas">Dissimilarity between Iaas, Paas, Saas</a></h4>
 
 
