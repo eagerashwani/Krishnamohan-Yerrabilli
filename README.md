@@ -60,5 +60,7 @@ for communication b/w Discord and HQ Trivia Live Game. By Simply using Web Socke
 <div align="center">
 <br/>
   
+ ![Profile views](https://gpvc.arturio.dev/krishnamohan-yerrabilli)
+  
 <h1 align="center"><a href = "https://drive.google.com/file/d/1VIzPLU_QIEmcYo3uhEEUl4lBTfa09rEp/view?usp=sharing">Click to view my Resume</a></h1>
 
