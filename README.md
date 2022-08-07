@@ -7,7 +7,7 @@
 
 <h4></h4>
 
-- 🔭 I’m currently working on **improving my DSA Skills** 
+- 🔭 I’m currently learning **DevOps** 
 
 - 👯 I’m looking to collaborate on **open source projects(Cloudbased)**
 
@@ -17,7 +17,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamohan-yerrabilli&theme=blue-green)
 
 #### MICT/Web Developer/Tutor.
-##### I'm passionate about my work, "Because I do what I love, and I love web development", currently pursuing my bachelor's at mict college, Vijayawada. I'm Excited to learn new technologies and do blogging and I'm Currently learning #DSA and #DevOps. Passionate, Dedicated. Love to make apps and test my skills on Reactjs. Apart from the geeky stuff, I love to watch Doucumentries, Read Biographies!
+##### I'm passionate about my work, "Because I do what I love, and I love Development", currently pursuing my bachelor's at mict college, Vijayawada. I'm Excited to learn new technologies and do blogging and I'm Currently learning #DevOps. Passionate, Dedicated. Love to make apps and test my skills on Reactjs. Apart from the geeky stuff, I love to watch Doucumentries, Read Biographies!
 
 ## My Latest Blog's 🚀
 
