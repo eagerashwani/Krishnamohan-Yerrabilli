@@ -62,7 +62,7 @@ for communication b/w Discord and HQ Trivia Live Game. By Simply using Web Socke
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
 
 ### 🗄️ Databases and Cloud Hosting
@@ -90,10 +90,11 @@ for communication b/w Discord and HQ Trivia Live Game. By Simply using Web Socke
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
 ## Feel Free To Reach me 📫:
+
 [![Gmail Badge](https://img.shields.io/badge/-mailtomohanse@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](mailto:mailtomohanse@gmail.com)
 [![Twitter_Badge](https://img.shields.io/badge/-K_Mohan_-blue?style=flat-roundedrectangle&logo=Twitter&logoColor=white&link=https://twitter.com/K_Mohan_)](https://twitter.com/K_Mohan_)
 [![Instagram Badge](https://img.shields.io/badge/-krishnamohan_yerrabilli-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=[https://www.instagram.com/asthi_21_/](https://www.instagram.com/krishnamohan_yerrabilli/))](https://www.instagram.com/krishnamohan_yerrabilli/)
 [![Linkedin Badge](https://img.shields.io/badge/-Krishnamohanyerrabilli-blue?style=flat-roundedrectangle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asthiseta)](https://www.linkedin.com/in/krishnamohanyerrabilli)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-roundedrectangle&logo=whatsapp&logoColor=white)](https://wa.me/6281576441)
-[![Discord Badge](https://img.shields.io/badge/-Krishnamohan-Yerrabilli#7991-5663F7?style=flat-roundedrectangle&logo=Discord&logoColor=white)](https://discord.com/#Krishnamohan-Yerrabilli#7991)
+
 <h5 align="center">Made With ❤️ by Me </h5>
