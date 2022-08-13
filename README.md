@@ -2,17 +2,18 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <h1 align="center">👋 Krishnamohan-Yerrabilli here.</h1>
+<a href="https://github.com/Krishnamohan-Yerrabilli/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Opensource+Enthusiastic;%20DevOps%20;learning%20new%20things&center=true&width=580&height=45"></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Opensource+Enthusiastic;%20DevOps%20;learning%20new%20things&center=true&width=580&height=45"></a>
+  
 </p>
 
 
-<p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Krishnamohan-Yerrabilli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krishnamohan-Yerrabilli&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krishnamohan-Yerrabilli&layout=compact&langs_count=8&theme=algolia"/></a>
+<p align="center">
+[![Krishnamohan-Yerrabilli's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Krishnamohan-Yerrabilli&theme=react-dark)](Krishnamohan-Yerrabilli)
 </p>
 
 #### MICT/Web Developer/Tutor.
@@ -89,7 +90,13 @@ for communication b/w Discord and HQ Trivia Live Game. By Simply using Web Socke
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
- 
-[![AkuraDiary's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Krishnamohan-Yerrabilli&theme=react-dark)](Krishnamohan-Yerrabilli) 
   
-![Profile views](https://gpvc.arturio.dev/krishnamohan-yerrabilli) 
+## Feel Free To Reach me 📫:
+[![Gmail Badge](https://img.shields.io/badge/-mailtomohanse@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](mailto:asthiseta@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=[https://www.instagram.com/asthi_21_/](https://www.instagram.com/krishnamohan_yerrabilli/))](https://www.instagram.com/asthi_21_/)
+[![Linkedin Badge](https://img.shields.io/badge/-asthiseta-blue?style=flat-roundedrectangle&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/asthiseta](https://www.linkedin.com/in/krishnamohanyerrabilli/))]([https://www.linkedin.com/in/asthiseta](https://www.linkedin.com/in/krishnamohanyerrabilli/))
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-roundedrectangle&logo=whatsapp&logoColor=white)](https://wa.me/6281576441)
+[![Discord Badge](https://img.shields.io/badge/-Asthi21-5663F7?style=flat-roundedrectangle&logo=Discord&logoColor=white)](https://discord.com/#Krishnamohan-Yerrabilli#7991)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AkuraDiary)
+<h5 align="center">Made With ❤️ by Me </h5>
