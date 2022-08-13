@@ -6,6 +6,10 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></h1>
 </p>
 
+## By the way here are some of my statistics 🚀
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishnamohan-Yerrabilli&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krishnamohan-Yerrabilli&theme=github_dark)
 
 ![Krishnamohan-Yerrabilli's github stats](https://github-readme-stats.vercel.app/api?username=Krishnamohan-Yerrabilli&show_icons=true&theme=github_dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnamohan-Yerrabilli&theme=tokyonight_duo" alt="mystreak"/>
@@ -91,6 +95,5 @@ for communication b/w Discord and HQ Trivia Live Game. By Simply using Web Socke
 [![Instagram Badge](https://img.shields.io/badge/-krishnamohan_yerrabilli-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=[https://www.instagram.com/asthi_21_/](https://www.instagram.com/krishnamohan_yerrabilli/))](https://www.instagram.com/krishnamohan_yerrabilli/)
 [![Linkedin Badge](https://img.shields.io/badge/-Krishnamohanyerrabilli-blue?style=flat-roundedrectangle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asthiseta)](https://www.linkedin.com/in/krishnamohanyerrabilli)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-roundedrectangle&logo=whatsapp&logoColor=white)](https://wa.me/6281576441)
-[![Discord Badge](https://img.shields.io/badge/-Krishnamohan-Yerrabilli-5663F7?style=flat-roundedrectangle&logo=Discord&logoColor=white)](https://discord.com/#Krishnamohan-Yerrabilli#7991)
-
+[![Discord Badge](https://img.shields.io/badge/-Krishnamohan-Yerrabilli#7991-5663F7?style=flat-roundedrectangle&logo=Discord&logoColor=white)](https://discord.com/#Krishnamohan-Yerrabilli#7991)
 <h5 align="center">Made With ❤️ by Me </h5>
