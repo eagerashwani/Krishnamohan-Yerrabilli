@@ -2,6 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <h1 align="center">👋 Krishnamohan-Yerrabilli here.</h1>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Opensource+Enthusiastic;%20DevOps%20;learning%20new%20things&center=true&width=580&height=45"></a>
 </p>
@@ -19,6 +20,8 @@
 
 ## My Latest Blog's 🚀
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 * <h4><a href = "https://krishnamohanse.hashnode.dev/what-serverless-is-all-about">what-serverless-is-all-about</a></h4>
 * <h4><a href = "https://krishnamohanse.hashnode.dev/what-is-amazon-cloudfront-and-how-does-it-work-hands-on">What-is-amazon-cloudfront-and-how-does-it-work-hands-on</a></h4>
 * <h4><a href = "https://krishnamohanse.hashnode.dev/all-you-need-to-know-about-amazon-route-53">All-you-need-to-know-about-amazon-route-53</a></h4>
@@ -29,6 +32,9 @@
 
 
 ## Experience
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 * Student-Tutor (SELF_EMPLOYED). (04-2019 - Present)
 ## Projects:computer:
 * [Responsive Web-Design-](https://github.com/Krishnamohan-Yerrabilli/Krishnamohan-Yerrabilli.github.io)
@@ -41,8 +47,12 @@ I appreciate anyone can fork it and make your own changes
 #### Created a discord bot 
 for communication b/w Discord and HQ Trivia Live Game. By Simply using Web Socket Handshake through sending HTTP request, If HQ announced any different timings of the game or events, it instantly reflect into discord channel.
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ## Let's Connect :+1:
 * [![](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/raw/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/krishnamohanyerrabilli/)  [![](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/raw/master/assets/img/ttt.png)](https://twitter.com/Kmohan_y) 
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 👨‍💻 Programming Languages
 
@@ -77,9 +87,11 @@ for communication b/w Discord and HQ Trivia Live Game. By Simply using Web Socke
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
  
- ![Profile views](https://gpvc.arturio.dev/krishnamohan-yerrabilli)
+ <p align="center">![Profile views](https://gpvc.arturio.dev/krishnamohan-yerrabilli)</p>
   
 
 
