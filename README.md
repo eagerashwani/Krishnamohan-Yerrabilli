@@ -6,9 +6,6 @@
 
 ## By the way here are some of my statistics 🚀
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishnamohan-Yerrabilli&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krishnamohan-Yerrabilli&theme=github_dark)
-
 ![Krishnamohan-Yerrabilli's github stats](https://github-readme-stats.vercel.app/api?username=Krishnamohan-Yerrabilli&show_icons=true&theme=github_dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnamohan-Yerrabilli&theme=tokyonight_duo" alt="mystreak"/>
 
