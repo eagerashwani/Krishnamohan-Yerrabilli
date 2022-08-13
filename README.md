@@ -1,6 +1,6 @@
 <img src="./computer.gif" width="100%"/>
 <h1 align="center">👋 Krishnamohan-Yerrabilli here.</h1>
-<h1 align="center"><a href="https://github.com/Krishnamohan-Yerrabilli/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Opensource+Enthusiastic;%20DevOps%20;learning%20new%20things&center=true&width=580&height=45"></a>
+<h1 align="center"><a href="https://github.com/Krishnamohan-Yerrabilli/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Opensource+Enthusiastic;%20Aspiring_DevOps_Engineer%20;learning%20new%20things&center=true&width=580&height=45"></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></h1>
 </p>
 
