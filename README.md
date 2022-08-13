@@ -1,5 +1,5 @@
 
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">/h1>
 <h1 align="center">👋 Krishnamohan-Yerrabilli here.</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Opensource+Enthusiastic;%20DevOps%20;learning%20new%20things&center=true&width=580&height=45"></a>
