@@ -13,8 +13,12 @@
 - 👯 I’m looking to collaborate on **open source projects(Cloudbased)**
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Krishnamohan-Yerrabilli&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Krishnamohan Yerrabilli's Github Stats">
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamohan-yerrabilli&theme=blue-green)
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Krishnamohan-Yerrabilli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krishnamohan-Yerrabilli&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 #### MICT/Web Developer/Tutor.
 ##### I'm passionate about my work, "Because I do what I love, and I love Development", currently pursuing my bachelor's at mict college, Vijayawada. I'm Excited to learn new technologies and do blogging and I'm Currently learning #DevOps. Passionate, Dedicated. Love to make apps and test my skills on Reactjs. Apart from the geeky stuff, I love to watch Doucumentries, Read Biographies!
