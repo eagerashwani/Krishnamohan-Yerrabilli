@@ -13,7 +13,7 @@
 
 [![Krishnamohan-Yerrabilli's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Krishnamohan-Yerrabilli&theme=react-dark)](Krishnamohan-Yerrabilli)
 
-#### MICT/Web Developer/Tutor.
+#### MICT/DevOps/Content_Creator/Tutor.
 ##### I'm passionate about my work, "Because I do what I love, and I love Development", currently pursuing my bachelor's at mict college, Vijayawada. I'm Excited to learn new technologies and do blogging and I'm Currently learning #DevOps. Passionate, Dedicated. Love to make apps and test my skills on Reactjs. Apart from the geeky stuff, I love to watch Doucumentries, Read Biographies!
 
 ## My Latest Blog's 🚀
@@ -26,8 +26,6 @@
 * <h4><a href = "https://krishnamohanse.hashnode.dev/heres-how-docker-makes-your-life-easier-1">Here's how Docker makes your life easier</a></h4>
 * <h4><a href = "https://krishnamohanse.hashnode.dev/dissimilarity-between-iaas-paas-saas">Dissimilarity between Iaas, Paas, Saas</a></h4>
 * <h4><a href = "https://krishnamohanse.hashnode.dev/heres-how-kubernetes-makes-your-life-easy">Here's-how-kubernetes-makes-your-life-easy</a></h4>
-
-
 
 ## Experience
 
