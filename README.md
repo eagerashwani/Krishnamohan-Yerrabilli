@@ -1,6 +1,6 @@
 <img src="./computer.gif" width="100%"/>
 
-![image](https://user-images.githubusercontent.com/58173938/184520628-5715e0e8-0929-4dc4-98c7-761c19c9cbba.gif)
+https://beebom.com/wp-content/uploads/2014/05/Pro-Blogging.gif
 
 <h1 align="center">👋 Krishnamohan-Yerrabilli here.</h1>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></h1>
