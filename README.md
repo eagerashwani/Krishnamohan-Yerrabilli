@@ -1,6 +1,5 @@
 <img src="./computer.gif" width="100%"/>
 <h1 align="center">👋 Krishnamohan-Yerrabilli here.</h1>
-<h1 align="center"><a href="https://github.com/Krishnamohan-Yerrabilli/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Open+Source;%20Aspiring+DevOps+Engineer%20;Technophobe&center=true&width=580&height=45"></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></h1>
 </p>
 
@@ -16,9 +15,9 @@
 #### MICT/DevOps/Content_Creator/Tutor.
 ##### I'm passionate about my work, "Because I do what I love, and I love Development", currently pursuing my bachelor's at mict college, Vijayawada. I'm Excited to learn new technologies and do blogging and I'm Currently learning #DevOps. Passionate, Dedicated. Love to make apps and test my skills on Reactjs. Apart from the geeky stuff, I love to watch Doucumentries, Read Biographies!
 
-## My Latest Blog's 🚀
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## My Latest Blog's 🚀
 
 * <h4><a href = "https://krishnamohanse.hashnode.dev/what-serverless-is-all-about">what-serverless-is-all-about</a></h4>
 * <h4><a href = "https://krishnamohanse.hashnode.dev/what-is-amazon-cloudfront-and-how-does-it-work-hands-on">What-is-amazon-cloudfront-and-how-does-it-work-hands-on</a></h4>
@@ -27,9 +26,9 @@
 * <h4><a href = "https://krishnamohanse.hashnode.dev/dissimilarity-between-iaas-paas-saas">Dissimilarity between Iaas, Paas, Saas</a></h4>
 * <h4><a href = "https://krishnamohanse.hashnode.dev/heres-how-kubernetes-makes-your-life-easy">Here's-how-kubernetes-makes-your-life-easy</a></h4>
 
-## Experience
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## Experience
 
 * Student-Tutor (SELF_EMPLOYED). (04-2019 - Present)
 ## Projects:computer:
