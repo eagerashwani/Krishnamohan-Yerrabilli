@@ -67,6 +67,16 @@ for communication b/w Discord and HQ Trivia Live Game. By Simply using Web Socke
     <a href="#"><img alt="Amazon_Web_Services" src ="https://img.shields.io/badge/Amazon_Web_Services-0089D6?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </p>
 
+### 🌐 Web Servers and Proxy
+
+<p>
+
+<a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx%20-%23FF0000.svg?logo=nginx&logoColor=white"></a>
+<a href="#"><img alt="Apacewebserver" src="https://img.shields.io/badge/Apacewebserver%20-%23FF0000.svg?logo=Apachewebserver&logoColor=white"></a>
+<a href="#"><img alt="haproxy" src="https://img.shields.io/badge/HAProxy%20-%23FF0000.svg?logo=haproxy&logoColor=white"></a>
+
+</p>
+
 ### 💻 Software and Tools
 
 <p>
