@@ -70,8 +70,8 @@ for communication b/w Discord and HQ Trivia Live Game. By Simply using Web Socke
 ### 💻 Software and Tools
 
 <p>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=kubernetes&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%23FF0000.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-008678.svg?logo=kubernetes&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
