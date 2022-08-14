@@ -1,4 +1,5 @@
 <img src="./computer.gif" width="100%"/>
+
 ![image](https://user-images.githubusercontent.com/58173938/184520628-5715e0e8-0929-4dc4-98c7-761c19c9cbba.png)
 
 <h1 align="center">👋 Krishnamohan-Yerrabilli here.</h1>
