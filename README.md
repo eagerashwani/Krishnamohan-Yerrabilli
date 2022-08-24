@@ -1,4 +1,6 @@
-<img src="./computer.gif" width="100%"/>
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
 
 <h1 align="center">👋 Krishnamohan-Yerrabilli here.</h1>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></h1>
