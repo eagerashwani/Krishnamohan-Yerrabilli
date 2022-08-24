@@ -12,7 +12,7 @@
 
 ## About me 👨
 
-#### 👋 Hello My name is **Krishnamohan Yerrabilli**, I love **OSS** ❤️ and **Communities**, I'm Currently learning **DevOps 🧑‍💻**
+#### 👋 Hello My name is **Krishnamohan Yerrabilli**, I love **OSS** ❤️ and **Communities**, I'm a **DevOps Enthusiast 🧑‍💻**
 
 Apart from the **Geeky stuff**, I love to watch **Doucumentries** 📀, **Reading Biographies** 📚, and the main part is I'm a **big foodie**! 😁
 
