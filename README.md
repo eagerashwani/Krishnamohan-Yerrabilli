@@ -13,9 +13,9 @@
 
 ## About me 👨
 
-#### 👋 Hello My name is **Krishnamohan-Yerrabilli**, I love **Communities**,  I'm Currently learning **DevOps**, and I'm a **open source Enthusiast**
+#### 👋 Hello My name is **Krishnamohan-Yerrabilli**, I love **Communities**,  I'm Currently learning **DevOps 🧑‍💻**, I **Love Open Source ❤️**
 
-Apart from the geeky stuff, I love to watch **Doucumentries** 📀, **Read Biographies** 📚, and the main part is I'm a **big foodie**! 😁
+Apart from the **Geeky stuff**, I love to watch **Doucumentries** 📀, **Read Biographies** 📚, and the main part is I'm a **big foodie**! 😁
 
 
 
