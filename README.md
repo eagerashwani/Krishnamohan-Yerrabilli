@@ -13,13 +13,18 @@
 
 ## About me 👨
 
-#### 👋 Hello My name is **Krishnamohan-Yerrabilli**, I love **Communities**,  I'm Currently learning **DevOps 🧑‍💻**, I **Love Open Source ❤️**
+#### 👋 Hello My name is **Krishnamohan Yerrabilli**, I love **Open Source** ❤️ and **Communities**, I'm Currently learning **DevOps 🧑‍💻**
 
-Apart from the **Geeky stuff**, I love to watch **Doucumentries** 📀, **Read Biographies** 📚, and the main part is I'm a **big foodie**! 😁
+Apart from the **Geeky stuff**, I love to watch **Doucumentries** 📀, **Reading Biographies** 📚, and the main part is I'm a **big foodie**! 😁
+
+<p></p>
+
+<p></p>
+
+<!-- Badges template - https://github.com/badges/shields -->
 
 
-
-## By the way here are some of my statistics 🚀
+## My statistics 🚀
 
 <!-- Contributor Graph-1 : https://activity-graph.herokuapp.com/graph?username=krishnamohan-yerrabilli&theme=xcode  -->
 ![](https://activity-graph.herokuapp.com/graph?username=krishnamohan-yerrabilli&theme=react-dark&hide_border=true)
@@ -40,9 +45,9 @@ Apart from the **Geeky stuff**, I love to watch **Doucumentries** 📀, **Read B
 
 ## Experience
 
-* Student-Tutor (SELF_EMPLOYED). (04-2019 - Present)
+* **Student-Tutor** (SELF_EMPLOYED). (04-2019 - Present)
 ## Projects:computer:
-* [Responsive Web-Design-](https://github.com/Krishnamohan-Yerrabilli/Krishnamohan-Yerrabilli.github.io)
+* [Responsive Web-Design](https://github.com/Krishnamohan-Yerrabilli/Krishnamohan-Yerrabilli.github.io)
 #### Designed a 3 page layout site
 Supports from smart watch display upto mobile and PC, 
 Auto adjustable to every screen
