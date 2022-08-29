@@ -14,7 +14,7 @@
 
 #### 👋 Hello My name is **Krishnamohan Yerrabilli**, I love **OSS** ❤️ and **Communities**, I'm currently exploring **DevOps 🧑‍💻**
 
-Apart from the **Geeky stuff**, I love to watch **Doucumentries** 📀, **Reading Biographies** 📚, and the main part is I'm a **big foodie**! 😁
+Apart from the **Geeky stuff**, I love to watch **Documentries** 📀, **Reading Biographies** 📚, and the main part is I'm a **big foodie**! 😁
 
 <p></p>
 
