@@ -22,25 +22,34 @@ Apart from the **Geeky stuff**, I love to watch **Documentries** 📀, **Reading
 
 <!-- Badges template - https://github.com/badges/shields -->
 
+## My Github Stats:
 
-## My statistics 🚀
+<table>
+  <tr>
+    <td>
+       <a href="https://github.com/krishnamohan-yerrabilli"><img alt="krishnamohan-yerrabilli Stats" src="https://github-readme-stats.vercel.app/api?username=krishnamohan-yerrabilli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+       <a href="http://www.github.com/krishnamohan-yerrabilli"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamohan-yerrabilli&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/krishnamohan-yerrabilli"><img alt="krishnamohan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamohan-yerrabilli&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+</table>
+
+
+
 
 <!-- Contributor Graph-1 : https://activity-graph.herokuapp.com/graph?username=krishnamohan-yerrabilli&theme=xcode  -->
 ![](https://activity-graph.herokuapp.com/graph?username=krishnamohan-yerrabilli&theme=react-dark&hide_border=true)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=krishnamohan-yerrabilli&show_icons=true&theme=tokyonight)  -->
 <p align="center">
 
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishnamohan-yerrabilli&show_icons=true&theme=algolia&hide_border=true" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamohan-yerrabilli&theme=algolia&hide_border=true" /> -->
-</p>
-
 
 ## Tech Stack I'm familiar with 👨‍💻
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="HAProxy" src="https://img.shields.io/badge/haproxy-000000?style=for-the-badge&logo=haproxy&logoColor=white"> <img alt="Nginx" src="https://img.shields.io/badge/nginx-000000?style=for-the-badge&logo=nginx&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="YAML" src="https://img.shields.io/badge/yaml-%230db7ed.svg?&style=for-the-badge&logo=yaml&logoColor=white"/> <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/linux-%23326ce5.svg?&style=for-the-badge&logo=linux&logoColor=white"/> <img alt="APIs" src="https://img.shields.io/badge/-api-C51A4A?style=for-the-badge&logo=apis"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img alt="CLI" src="https://img.shields.io/badge/cli-%23DD0031.svg?&style=for-the-badge&logo=cli&logoColor=white"/> <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/> <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="Amazon Web Services" src="https://img.shields.io/badge/aws-%230072C6.svg?&style=for-the-badge&logo=aws&logoColor=white"/> <img alt="Networking" src="https://img.shields.io/badge/Networking-E95420?style=for-the-badge&logo=networking&logoColor=white"/> <img alt="bash" src="https://img.shields.io/badge/bash-000000?style=for-the-badge&logo=bash&logoColor=white"> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="java" src="https://img.shields.io/badge/java-D70A53?style=for-the-badge&logo=teaching&logoColor=white" /> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
 
 ## Experience
 
