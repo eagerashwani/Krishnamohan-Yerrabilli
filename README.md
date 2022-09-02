@@ -41,10 +41,8 @@ Apart from the **Geeky stuff**, I love to watch **Documentries** 📀, **Reading
 
 
 
-<!-- Contributor Graph-1 : https://activity-graph.herokuapp.com/graph?username=krishnamohan-yerrabilli&theme=xcode  -->
-![](https://activity-graph.herokuapp.com/graph?username=krishnamohan-yerrabilli&theme=react-dark&hide_border=true)
-<!-- ![](https://github-readme-stats.vercel.app/api?username=krishnamohan-yerrabilli&show_icons=true&theme=tokyonight)  -->
-<p align="center">
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Krishnamohan-Yerrabilli&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
 
 
 ## Tech Stack I'm familiar with 👨‍💻
