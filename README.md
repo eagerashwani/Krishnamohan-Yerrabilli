@@ -1,5 +1,5 @@
 <div>
-<img align="center" src="https://i.imgur.com/4ASafy0.png">
+<img align="center" src="final-change.png">
 </div>
 
 <h1 align="center">👋 Krishnamohan-Yerrabilli here.</h1>
