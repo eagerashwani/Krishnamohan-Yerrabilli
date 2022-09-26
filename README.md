@@ -1,6 +1,6 @@
 
+![finalone (2)](https://user-images.githubusercontent.com/58173938/192304967-377ed148-0760-4b4c-ac0d-148926a1bacc.gif)
 
-![finalone](https://user-images.githubusercontent.com/58173938/192304717-9c666a8f-e086-4f20-845a-dc5d552d6851.gif)
 
 <h1 align="center">👋 Krishnamohan-Yerrabilli here.</h1>
 
